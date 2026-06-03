@@ -1,0 +1,82 @@
+/* ─────────────────────────────────────────────────────────────────────────────
+   Driver Acknowledgement List Styles
+   ───────────────────────────────────────────────────────────────────────────── */
+ 
+/* Table Row - Clickable */
+.ack-table-row {
+  cursor: pointer;
+}
+ 
+/* Back Button Margin Utility */
+.ack-back-button-margin {
+  margin-left: 12px;
+}
+ 
+/* Detail Panel - Slide-in Modal */
+.ack-detail-panel {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+ 
+/* Character Counter - Dynamic Color */
+.ack-char-count {
+  color: #94a3b8;
+}
+ 
+.ack-char-count.warning {
+  color: #ef4444;
+}
+ 
+/* Detail Section Container */
+.ack-detail-section {
+  margin-bottom: 24px;
+}
+ 
+/* Detail Section Title */
+.ack-section-title {
+  margin-bottom: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #475569;
+}
+ 
+/* Detail Field Grid */
+.ack-field-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+ 
+/* Detail Field Container */
+.ack-field-item {
+  /* Flex container for label and value */
+}
+ 
+/* Detail Labels */
+.ack-field-label {
+  font-size: 12px;
+  color: #64748b;
+  display: block;
+  margin-bottom: 4px;
+}
+ 
+/* Detail Values */
+.ack-field-value {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1e293b;
+}
+ 
+/* Notes Box styling */
+.ack-notes-box {
+  padding: 12px;
+  background-color: #f1f5f9;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #1e293b;
+  word-break: break-word;
+}
+ 
+ 
+ 
