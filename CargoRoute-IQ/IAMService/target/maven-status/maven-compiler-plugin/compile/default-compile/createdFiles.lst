@@ -1,0 +1,7 @@
+com\example\demo\DTO\NotificationDTO.class
+com\example\demo\enums\AuditResourceType.class
+com\example\demo\annotations\AuditableAction.class
+com\example\demo\aspects\AuditLogAspect.class
+com\example\demo\enums\AuditAction.class
+com\example\demo\clients\NotificationClient.class
+com\example\demo\controllers\InternalAuditLogController.class
